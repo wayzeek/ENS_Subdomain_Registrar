@@ -1,7 +1,7 @@
 
 # 🌐 SubdomainRegistrar
 
-The `SubdomainRegistrar` contract allows users to register subdomains under a specified parent node. The registration process involves setting a fee, transferring ownership, and configuring various parameters such as resolver and expiry.
+The `SubdomainRegistrar` contract allows users to register subdomains under a specified parent node.
 
 ## Features ✨
 
