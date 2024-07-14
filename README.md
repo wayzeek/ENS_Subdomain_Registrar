@@ -38,4 +38,4 @@ To deploy the `SubdomainRegistrar` contract, provide the following parameters:
 
 ## License 📜
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](https://github.com/wayzeek/ENS_Subdomain_Registrar/blob/main/LICENSE).
