@@ -30,6 +30,10 @@ To deploy the `SubdomainRegistrar` contract, provide the following parameters:
 3. **Set Fee Recipient** (Owner only):
     - Call the `setFeeRecipient` function with the new recipient address.
 
+## Prerequisites ⚠️
+1. **Lock the ENS Parent Name**: Ensure that the ENS parent name is locked so it is imposssible to unwrap it.
+2. **Set Approval for All**: The contract's address must be set as ApprovedForAll on the nameWrapper contract.
+
 ## License 📜
 
 This project is licensed under the MIT License.
